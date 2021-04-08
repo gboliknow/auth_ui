@@ -1,3 +1,4 @@
+![auth_ui](https://user-images.githubusercontent.com/27766375/114100354-ed66e700-98a2-11eb-8b26-f1e6ca690ece.jpg)
 # auth_ui
 
 A new Flutter project.
